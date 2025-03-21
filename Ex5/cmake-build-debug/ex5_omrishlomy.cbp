@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ex5_omrishlomy"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex5_omrishlomy">
+				<Option output="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/ex5_omrishlomy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/."/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex5_omrishlomy"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex5_omrishlomy/fast">
+				<Option output="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/ex5_omrishlomy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/."/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex5_omrishlomy/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/Movie.cpp">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/Movie.h">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/RecommendationSystem.cpp">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/RecommendationSystem.h">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/RecommendationSystemLoader.cpp">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/RecommendationSystemLoader.h">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/User.cpp">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/User.h">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/UsersLoader.cpp">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/UsersLoader.h">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/main.cpp">
+			<Option target="ex5_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex5-omrishlomy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
