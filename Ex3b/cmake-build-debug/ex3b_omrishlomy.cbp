@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ex3b_omrishlomy"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex3b_omrishlomy">
+				<Option output="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/ex3b_omrishlomy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/."/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex3b_omrishlomy"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex3b_omrishlomy/fast">
+				<Option output="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/ex3b_omrishlomy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/."/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex3b_omrishlomy/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/linked_list.c">
+			<Option target="ex3b_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/linked_list.h">
+			<Option target="ex3b_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/makefile">
+			<Option target="ex3b_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/markov_chain.c">
+			<Option target="ex3b_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/markov_chain.h">
+			<Option target="ex3b_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/snakes_and_ladders.c">
+			<Option target="ex3b_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/tweets_generator.c">
+			<Option target="ex3b_omrishlomy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

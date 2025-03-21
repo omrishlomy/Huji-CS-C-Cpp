@@ -1,0 +1,3 @@
+/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/CMakeFiles/ex3b_omrishlomy.dir
+/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/CLionProjects/ex3b_omrishlomy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

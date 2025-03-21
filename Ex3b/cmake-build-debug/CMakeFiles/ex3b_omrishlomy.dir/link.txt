@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ex3b_omrishlomy.dir/linked_list.c.o CMakeFiles/ex3b_omrishlomy.dir/markov_chain.c.o CMakeFiles/ex3b_omrishlomy.dir/snakes_and_ladders.c.o CMakeFiles/ex3b_omrishlomy.dir/tweets_generator.c.o -o ex3b_omrishlomy 
